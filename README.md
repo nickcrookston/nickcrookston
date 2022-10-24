@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nickcrookston
 - 👀 I’m interested in FVS and FVSOnline (the interface)
+I'm also the author of R package yaImpute, now maintained by Jeff Evans.
 
 - 📫 How to reach me: By Email: ncrookston.fs@gmail.com 
 
